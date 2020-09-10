@@ -1,0 +1,9 @@
+import os
+
+os.environ['SPOTIPY_CLIENT_ID'] = '9658408922bd4309aee868f54c6ca714'
+os.environ['SPOTIPY_CLIENT_SECRET'] = 'ee1fc29686894896b24d0f6adc7384a9'
+os.environ['SPOTIPY_REDIRECT_URI'] = 'http://127.0.0.1:5000'
+
+USER = os.getenv('SPOTIPY_CLIENT_ID')
+SECRET = os.getenv('SPOTIPY_CLIENT_ID')
+REDIRECT = os.getenv('SPOTIPY_REDIRECT_URI')

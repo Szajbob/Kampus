@@ -1,0 +1,12 @@
+/__pycache__/
+/__pycache__/credentials.cpython-38.pyc
+/__pycache__/flask.cpython-38.pyc
+/__pycache__/main.cpython-38.pyc
+/__pycache__/web_scrape.cpython-38.pyc
+/__pycache__/spotifyOauth.cpython-38.pyc
+/.flask_session/4dc86fcb265a779c7e64453e0b6d061e
+/.flask_session/276a2f821a7d24505ce3055366260812
+/.flask_session/2029240f6d1128be89ddc32729463129
+/.spotify_caches/65e0df0c-0f12-46f6-89e6-2eee087e6fbb
+/.vscode/settings.json
+/.vscode/
